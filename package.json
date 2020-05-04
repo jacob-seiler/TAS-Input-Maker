@@ -1,0 +1,24 @@
+{
+  "name": "tas-input-maker",
+  "version": "1.0.0",
+  "description": "App for creating input file for TAS tool that I will create in the future",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacob-seiler/TAS-Input-Maker.git"
+  },
+  "author": "Jacob Seiler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacob-seiler/TAS-Input-Maker/issues"
+  },
+  "homepage": "https://github.com/jacob-seiler/TAS-Input-Maker#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.5.0",
+    "popper.js": "^1.16.1"
+  }
+}
